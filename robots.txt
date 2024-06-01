@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://iyokarof.com/sitemap.xml
